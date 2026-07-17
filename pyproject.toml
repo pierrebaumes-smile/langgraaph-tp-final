@@ -9,6 +9,9 @@ dependencies = [
     "sentence-transformers>=3.0",
     "bm25s>=0.2",
     "numpy>=1.24",
+    "langgraph>=1.0",
+    "langchain-groq>=1.0",
+    "python-dotenv>=1.0",
 ]
 
 [tool.setuptools.packages.find]
